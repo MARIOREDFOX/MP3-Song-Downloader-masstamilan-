@@ -1,0 +1,6 @@
+base_url: "https://masstamilan.dev"
+year_from: 2000
+year_to: 2026
+quality: "320"
+delay: 3
+download_dir: "./downloads"
